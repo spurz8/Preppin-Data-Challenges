@@ -1,2 +1,6 @@
-# Preppin-Data-2023-Weeks-1-4
-Preppin' Data with SQL 2023 Weeks 1-4 - Will Sutton's Summer of SQL
+# Preppin' Data Challenges using SQL
+
+| Year | Challenge |Solution |
+|----------|----------|:----------:|
+|2023| Week 1|[↗️]()|
+
